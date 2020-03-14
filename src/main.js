@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
+import './style/index.less'// 引入初始化样式
 
 Vue.config.productionTip = false
 
