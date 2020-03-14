@@ -7,7 +7,7 @@ const routes = [
   {
     // 强制跳转到主页
     path: '/',
-    redirect: '/home'
+    redirect: '/login'
   },
   {
     // 主页路由
